@@ -3,3 +3,5 @@
 Meu primeiro arquivo de teste
 
 Eu sou uma nova linha
+
+Adicionada uma terceira linha.
